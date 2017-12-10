@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Custom Font</string>
+    <string name="text">Android 8.0 (API 26) introduced a new feature, fonts in xs you don’t need to include font files in your app. You can refer android downloadable fonts.</string>
+</resources>
